@@ -286,17 +286,13 @@ DSA/
 
 # `08` // CONTRIBUTION MATRIX
 
+
 <div align="center">
 
-> Initializing contribution visualization...
-
-<br>
-
-🐍 **SNAKE MODULE WILL APPEAR HERE**
-
-<br>
-
-`[ WAITING FOR GITHUB ACTION ]`
+<img
+  src="https://raw.githubusercontent.com/Arka-ui001/Arka-ui001/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
